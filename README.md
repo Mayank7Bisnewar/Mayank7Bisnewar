@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank Bisnewar!
 
-<!--
-**Mayank7Bisnewar/Mayank7Bisnewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Engineering Student** at Priyadarshini College of Engineering, Nagpur  
+🤖 Passionate about **Machine Learning, Data Analysis, and Full-Stack Web Development**  
+💻 Skilled in **Python, SQL, Flask, Bootstrap, Figma, and Pandas**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m Working On
+- AI-Based Traffic Control System using Sensors & Cameras  
+- Multi-Role Hospital Management System (Flask + MySQL)  
+- Data Visualization Dashboards using Power BI & Tableau  
+
+---
+
+### ⚙️ Tech Stack
+**Languages:** Python, C++, C, SQL  
+**AI & ML:** Scikit-learn, Pandas, NumPy, Matplotlib  
+**Web Development:** Flask, HTML, CSS, Bootstrap, Tkinter  
+**Design Tools:** Figma  
+**Databases:** MySQL, SQLite  
+
+---
+
+### 📈 GitHub Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank7Bisnewar&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mayank-bisnewar/) | [Portfolio (coming soon)](#) | [Email](mailto:youremail@example.com)
