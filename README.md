@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mayank Bisnewar!
+                    # 👋 Hi, I'm Mayank Bisnewar!
 
-🎓 **AI Engineering Student** at Priyadarshini College of Engineering, Nagpur  
+🎓 **AI Engineering Student** at Priyadarshini Bhagwati College of Engineering, Nagpur  
 🤖 Passionate about **Machine Learning, Data Analysis, and Full-Stack Web Development**  
 💻 Skilled in **Python, SQL, Flask, Bootstrap, Figma, and Pandas**
 
